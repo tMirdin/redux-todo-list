@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "task 1",
+      "done": false,
+      "id": "68860c0f-3f13-40ee-8ff9-0e151b310eb0"
+    },
+    {
+      "text": "task 2",
+      "done": false,
+      "id": "1362b936-28d4-4519-b392-2e9ccf452406"
+    },
+    {
+      "text": "task new 3",
+      "done": false,
+      "id": "8f1b0a70-c2c7-4eb0-9942-8e965cdfe3e6"
+    }
+  ]
+}

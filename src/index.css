@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+a {
+  color: rgb(83, 78, 78) !important;
+  text-decoration: none;
+}
+
+.active {
+  color: burlywood !important;
+  text-decoration: underline !important;
+}
